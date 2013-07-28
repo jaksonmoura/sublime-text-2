@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>${1}</title>
+		<link rel="stylesheet" href="${2}"/>
+	</head>
+	<body>
+		<header></header>
+
+		<footer></footer>
+	</body>
+</html>
+]]></content>
+	<tabTrigger>html5</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

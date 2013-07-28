@@ -1,0 +1,18 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Espresso Soda.tmTheme",
+	// "font_face": "Consolas",
+	"font_face": "BitStream Vera Sans Mono",
+	"font_size": 13.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"show_full_path": true,
+	"tab_size": 2,
+	"bold_folder_labels": true,
+	"draw_white_space": "all",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"soda_folder_icons": true,
+	"theme": "Soda Light.sublime-theme"
+}
